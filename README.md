@@ -32,7 +32,7 @@ Uses KiCad v7.x for two PCB's; Control Board and Display Board.
 Control Board
 ---
 
-- Version 1.0 sent to fab on 7/17/2023
+- Version 1.0 sent to fab on 2023/07/17 (success!)
 
 Components:
 
@@ -47,12 +47,14 @@ Components:
 ![Control Board PCB Front](images/control-board-pcb-front-v1.0.jpg))
 ![Control Board PCB Back](images/control-board-pcb-back-v1.0.jpg))
 
-
-
 Display Board
 ---
-Display Board not yet created.
+
+- Version 1.0 sent to fab on 2023/08/21 (success!)
 
 Components:
 
 -  2 x 0.56" LED Display Digital Tube Clock Module 4 Digit ([Amazon](https://www.amazon.com/gp/product/B0BB72R6RW/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1))
+- 3 x Addressable RGB LEDs ([sparkfun](https://www.sparkfun.com/products/12986))
+
+![Display Board PCB](images/display-board-pcb-front-v1.0.png)
