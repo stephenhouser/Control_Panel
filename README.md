@@ -2,7 +2,7 @@
 
 The old-school hard-switch control panel for Home Automation.
 
-![Breadboard Prototype](images/prototype-1-complete.jpg)
+![Breadboard Prototype](images/living-room-cp.jpg)
 
 This project has a few parts, each documented in their own section below.
 
