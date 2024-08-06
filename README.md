@@ -23,7 +23,14 @@ You can find details on these boxes in general from [BUD Industries](https://www
 
 # Base and Top Panels
 
-Look in the Box_Panels directory. These are SVG files for a laser cutter
+Look in the Box_Panels directory. These are SVG files for a laser cutter, deisgned to be etched from the back side (will look reversed)
+
+Process:
+- Remove back-side protective film
+- Paint back side of acrylic black
+- Laser etch the panel
+- Paint over the etched side with white paint
+- Done! Remove front film and install
 
 # PCBs for Base and Top panels
 
